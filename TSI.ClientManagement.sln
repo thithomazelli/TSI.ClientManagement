@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.ClientManagement.Entity", "TSI.ClientManagement.Entity\TSI.ClientManagement.Entity.csproj", "{7E8BC6A4-AD1E-4A60-A4AE-36CA70203374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.ClientManagement.Data", "TSI.ClientManagement.Data\TSI.ClientManagement.Data.csproj", "{C068A86B-A752-431E-946D-5E8B5C1CF92A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.ClientManagement.Manager", "TSI.ClientManagement.Manager\TSI.ClientManagement.Manager.csproj", "{98963F55-78EB-4432-A6E3-99D120850280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.ClientManagement.WebApp", "TSI.ClientManagement.WebApp\TSI.ClientManagement.WebApp.csproj", "{8B9F0E4E-0A8E-4D4B-9563-1E93FA8CBCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSI.ClientManagement.WebApp.Tests", "TSI.ClientManagement.WebApp.Tests\TSI.ClientManagement.WebApp.Tests.csproj", "{4DBB2E4C-6B58-4CF6-8301-C32E0349977A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E8BC6A4-AD1E-4A60-A4AE-36CA70203374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8BC6A4-AD1E-4A60-A4AE-36CA70203374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8BC6A4-AD1E-4A60-A4AE-36CA70203374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8BC6A4-AD1E-4A60-A4AE-36CA70203374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C068A86B-A752-431E-946D-5E8B5C1CF92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C068A86B-A752-431E-946D-5E8B5C1CF92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C068A86B-A752-431E-946D-5E8B5C1CF92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C068A86B-A752-431E-946D-5E8B5C1CF92A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98963F55-78EB-4432-A6E3-99D120850280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98963F55-78EB-4432-A6E3-99D120850280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98963F55-78EB-4432-A6E3-99D120850280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98963F55-78EB-4432-A6E3-99D120850280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9F0E4E-0A8E-4D4B-9563-1E93FA8CBCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9F0E4E-0A8E-4D4B-9563-1E93FA8CBCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9F0E4E-0A8E-4D4B-9563-1E93FA8CBCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9F0E4E-0A8E-4D4B-9563-1E93FA8CBCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBB2E4C-6B58-4CF6-8301-C32E0349977A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBB2E4C-6B58-4CF6-8301-C32E0349977A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBB2E4C-6B58-4CF6-8301-C32E0349977A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBB2E4C-6B58-4CF6-8301-C32E0349977A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tsisolucoes.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TSI.ClientManagement.Data\\TSI.ClientManagement.Data.csproj
+		SccProjectName1 = TSI.ClientManagement.Data
+		SccLocalPath1 = TSI.ClientManagement.Data
+		SccProjectUniqueName2 = TSI.ClientManagement.Entity\\TSI.ClientManagement.Entity.csproj
+		SccProjectName2 = TSI.ClientManagement.Entity
+		SccLocalPath2 = TSI.ClientManagement.Entity
+		SccProjectUniqueName3 = TSI.ClientManagement.Manager\\TSI.ClientManagement.Manager.csproj
+		SccProjectName3 = TSI.ClientManagement.Manager
+		SccLocalPath3 = TSI.ClientManagement.Manager
+		SccProjectUniqueName4 = TSI.ClientManagement.WebApp.Tests\\TSI.ClientManagement.WebApp.Tests.csproj
+		SccProjectName4 = TSI.ClientManagement.WebApp.Tests
+		SccLocalPath4 = TSI.ClientManagement.WebApp.Tests
+		SccProjectUniqueName5 = TSI.ClientManagement.WebApp\\TSI.ClientManagement.WebApp.csproj
+		SccProjectName5 = TSI.ClientManagement.WebApp
+		SccLocalPath5 = TSI.ClientManagement.WebApp
+	EndGlobalSection
+EndGlobal
